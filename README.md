@@ -1,16 +1,26 @@
-## Hi there 👋
+# Stephen Karitu 👋
 
-<!--
-**karitustephen/karitustephen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder & Lead Solutions Architect at **Arybit Technologies**  
+Architect of the **Arybit Intelligence Ecosystem**
 
-Here are some ideas to get you started:
+## 🚀 What I Build
+- **SoulOS** – Cognitive operating system for autonomous intelligence
+- **AARAB** – Advanced Autonomous Reasoning & Intelligent Framework
+- **NexBit** – Secure AI-driven transaction & logic systems
+- **Nation-Orbit** – Digital nation infrastructure & governance layers
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Core Focus Areas
+- Artificial Intelligence & Autonomous Agents  
+- Intelligent-Grade Systems  
+- Distributed Intelligence Architectures  
+- Secure APIs, Platforms & Ecosystems  
+
+## 🏢 Company
+**Arybit Technologies**  
+🌐 https://arybit.co.ke  
+📧 karitu.stephen@arybit.co.ke  
+
+## 🌍 Location
+Nairobi, Kenya
+
+> “We don’t just build software — we architect intelligence.”
